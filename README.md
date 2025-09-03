@@ -1,4 +1,4 @@
-#  Project info
+#  Demo MetaMask
 
 npm run dev
 
